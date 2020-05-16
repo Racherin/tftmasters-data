@@ -1,5 +1,6 @@
 {
   "team_comp_1": {
+    "Thumbnail_picture": "Rumble",
     "Count": 721.0,
     "Placement": 4.6,
     "Trait_tiers": {
@@ -51,6 +52,7 @@
     }
   },
   "team_comp_2": {
+    "Thumbnail_picture": "Ziggs",
     "Count": 1354.0,
     "Placement": 4.44,
     "Trait_tiers": {
@@ -120,6 +122,7 @@
     }
   },
   "team_comp_3": {
+    "Thumbnail_picture": "Blitzcrank",
     "Count": 2246.0,
     "Placement": 4.44,
     "Trait_tiers": {
@@ -183,6 +186,7 @@
     }
   },
   "team_comp_4": {
+    "Thumbnail_picture": "Xayah",
     "Count": 1182.0,
     "Placement": 4.36,
     "Trait_tiers": {
@@ -246,6 +250,7 @@
     }
   },
   "team_comp_5": {
+    "Thumbnail_picture": "Irelia",
     "Count": 512.0,
     "Placement": 4.4,
     "Trait_tiers": {
@@ -314,6 +319,7 @@
     }
   },
   "team_comp_6": {
+    "Thumbnail_picture": "WuKong",
     "Count": 1883.0,
     "Placement": 4.41,
     "Trait_tiers": {
