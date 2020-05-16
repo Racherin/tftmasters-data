@@ -1,12 +1,12 @@
 {
   "team_comp_1": {
+    "Thumbnail_picture": "Rumble",
     "Count": 721.0,
     "Placement": 4.6,
     "Trait_tiers": {
       "infiltrator": 2,
       "mechpilot": 1,
-      "sorcerer": 1,
-      "valkyrie": 1
+      "sorcerer": 1
     },
     "Champions": {
       "Rumble": {
@@ -14,12 +14,7 @@
         "Items": [
           "69",
           "55",
-          "25",
-          "66",
-          "79",
-          "36",
-          "27",
-          "15"
+          "25"
         ]
       },
       "Annie": {
@@ -31,11 +26,7 @@
         "Items": [
           "37",
           "44",
-          "38",
-          "14",
-          "33",
-          "34",
-          "36"
+          "38"
         ]
       },
       "Fizz": {
@@ -47,13 +38,7 @@
         "Items": [
           "19",
           "16",
-          "11",
-          "29",
-          "15",
-          "17",
-          "12",
-          "22",
-          "13"
+          "11"
         ]
       },
       "KhaZix": {
@@ -63,16 +48,11 @@
       "Lux": {
         "Count": 55,
         "Items": []
-      },
-      "Kayle": {
-        "Count": 37,
-        "Items": [
-          "28"
-        ]
       }
     }
   },
   "team_comp_2": {
+    "Thumbnail_picture": "Ziggs",
     "Count": 1354.0,
     "Placement": 4.44,
     "Trait_tiers": {
@@ -88,9 +68,7 @@
         "Items": [
           "44",
           "33",
-          "34",
-          "39",
-          "46"
+          "34"
         ]
       },
       "Sona": {
@@ -102,13 +80,7 @@
         "Items": [
           "12",
           "57",
-          "29",
-          "26",
-          "11",
-          "19",
-          "69",
-          "15",
-          "22"
+          "29"
         ]
       },
       "Yasuo": {
@@ -130,10 +102,7 @@
         "Items": [
           "15",
           "36",
-          "37",
-          "33",
-          "58",
-          "69"
+          "37"
         ]
       },
       "AurelionSol": {
@@ -153,6 +122,7 @@
     }
   },
   "team_comp_3": {
+    "Thumbnail_picture": "Blitzcrank",
     "Count": 2246.0,
     "Placement": 4.44,
     "Trait_tiers": {
@@ -192,13 +162,7 @@
         "Items": [
           "12",
           "57",
-          "29",
-          "15",
-          "11",
-          "19",
-          "79",
-          "69",
-          "26"
+          "29"
         ]
       },
       "Ezreal": {
@@ -212,10 +176,7 @@
         "Items": [
           "44",
           "69",
-          "57",
-          "33",
-          "14",
-          "34"
+          "57"
         ]
       },
       "Graves": {
@@ -225,13 +186,13 @@
     }
   },
   "team_comp_4": {
+    "Thumbnail_picture": "Xayah",
     "Count": 1182.0,
     "Placement": 4.36,
     "Trait_tiers": {
       "blademaster": 1,
       "celestial": 2,
       "chrono": 1,
-      "manareaver": 1,
       "protector": 1,
       "sniper": 1
     },
@@ -241,12 +202,7 @@
         "Items": [
           "29",
           "69",
-          "19",
-          "11",
-          "15",
-          "12",
-          "79",
-          "26"
+          "19"
         ]
       },
       "Shen": {
@@ -254,8 +210,7 @@
         "Items": [
           "47",
           "45",
-          "55",
-          "67"
+          "55"
         ]
       },
       "JarvanIV": {
@@ -263,13 +218,7 @@
         "Items": [
           "33",
           "35",
-          "45",
-          "27",
-          "36",
-          "55",
-          "47",
-          "3",
-          "66"
+          "45"
         ]
       },
       "Rakan": {
@@ -297,24 +246,17 @@
       "Kassadin": {
         "Count": 58,
         "Items": []
-      },
-      "Irelia": {
-        "Count": 32,
-        "Items": []
       }
     }
   },
   "team_comp_5": {
+    "Thumbnail_picture": "Irelia",
     "Count": 512.0,
     "Placement": 4.4,
     "Trait_tiers": {
       "blademaster": 1,
-      "blaster": 1,
-      "chrono": 1,
       "cybernetic": 2,
-      "manareaver": 1,
-      "mercenary": 1,
-      "valkyrie": 1
+      "manareaver": 1
     },
     "Champions": {
       "Irelia": {
@@ -322,10 +264,7 @@
         "Items": [
           "19",
           "29",
-          "11",
-          "28",
-          "15",
-          "16"
+          "11"
         ]
       },
       "Vi": {
@@ -341,9 +280,7 @@
         "Items": [
           "36",
           "6",
-          "4",
-          "67",
-          "47"
+          "4"
         ]
       },
       "Lucian": {
@@ -366,9 +303,7 @@
         "Items": [
           "36",
           "37",
-          "57",
-          "45",
-          "33"
+          "57"
         ]
       },
       "Kayle": {
@@ -380,22 +315,11 @@
       "Thresh": {
         "Count": 46,
         "Items": []
-      },
-      "MissFortune": {
-        "Count": 37,
-        "Items": []
-      },
-      "Kassadin": {
-        "Count": 34,
-        "Items": []
-      },
-      "Shen": {
-        "Count": 33,
-        "Items": []
       }
     }
   },
   "team_comp_6": {
+    "Thumbnail_picture": "WuKong",
     "Count": 1883.0,
     "Placement": 4.41,
     "Trait_tiers": {
@@ -404,9 +328,7 @@
       "chrono": 1,
       "manareaver": 1,
       "mercenary": 1,
-      "sniper": 1,
-      "valkyrie": 1,
-      "vanguard": 1
+      "valkyrie": 1
     },
     "Champions": {
       "WuKong": {
@@ -414,8 +336,7 @@
         "Items": [
           "45",
           "36",
-          "47",
-          "37"
+          "47"
         ]
       },
       "Kassadin": {
@@ -429,9 +350,7 @@
         "Items": [
           "23",
           "22",
-          "15",
-          "69",
-          "37"
+          "15"
         ]
       },
       "Shen": {
@@ -455,28 +374,6 @@
       },
       "Ashe": {
         "Count": 42,
-        "Items": []
-      },
-      "Jhin": {
-        "Count": 39,
-        "Items": [
-          "29",
-          "19",
-          "26",
-          "15",
-          "11"
-        ]
-      },
-      "Thresh": {
-        "Count": 39,
-        "Items": []
-      },
-      "Lulu": {
-        "Count": 37,
-        "Items": []
-      },
-      "Jayce": {
-        "Count": 36,
         "Items": []
       }
     }
