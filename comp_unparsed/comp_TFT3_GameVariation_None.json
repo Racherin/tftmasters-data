@@ -1,0 +1,484 @@
+{
+  "team_comp_1": {
+    "Count": 721.0,
+    "Placement": 4.6,
+    "Trait_tiers": {
+      "infiltrator": 2,
+      "mechpilot": 1,
+      "sorcerer": 1,
+      "valkyrie": 1
+    },
+    "Champions": {
+      "Rumble": {
+        "Count": 97,
+        "Items": [
+          "69",
+          "55",
+          "25",
+          "66",
+          "79",
+          "36",
+          "27",
+          "15"
+        ]
+      },
+      "Annie": {
+        "Count": 97,
+        "Items": []
+      },
+      "KaiSa": {
+        "Count": 96,
+        "Items": [
+          "37",
+          "44",
+          "38",
+          "14",
+          "33",
+          "34",
+          "36"
+        ]
+      },
+      "Fizz": {
+        "Count": 96,
+        "Items": []
+      },
+      "Shaco": {
+        "Count": 95,
+        "Items": [
+          "19",
+          "16",
+          "11",
+          "29",
+          "15",
+          "17",
+          "12",
+          "22",
+          "13"
+        ]
+      },
+      "KhaZix": {
+        "Count": 83,
+        "Items": []
+      },
+      "Lux": {
+        "Count": 55,
+        "Items": []
+      },
+      "Kayle": {
+        "Count": 37,
+        "Items": [
+          "28"
+        ]
+      }
+    }
+  },
+  "team_comp_2": {
+    "Count": 1354.0,
+    "Placement": 4.44,
+    "Trait_tiers": {
+      "blaster": 1,
+      "demolitionist": 1,
+      "mercenary": 1,
+      "rebel": 2,
+      "starship": 1
+    },
+    "Champions": {
+      "Ziggs": {
+        "Count": 85,
+        "Items": [
+          "44",
+          "33",
+          "34",
+          "39",
+          "46"
+        ]
+      },
+      "Sona": {
+        "Count": 82,
+        "Items": []
+      },
+      "Jinx": {
+        "Count": 80,
+        "Items": [
+          "12",
+          "57",
+          "29",
+          "26",
+          "11",
+          "19",
+          "69",
+          "15",
+          "22"
+        ]
+      },
+      "Yasuo": {
+        "Count": 77,
+        "Items": []
+      },
+      "Malphite": {
+        "Count": 74,
+        "Items": [
+          "27"
+        ]
+      },
+      "MasterYi": {
+        "Count": 72,
+        "Items": []
+      },
+      "Gangplank": {
+        "Count": 64,
+        "Items": [
+          "15",
+          "36",
+          "37",
+          "33",
+          "58",
+          "69"
+        ]
+      },
+      "AurelionSol": {
+        "Count": 55,
+        "Items": [
+          "38",
+          "37"
+        ]
+      },
+      "MissFortune": {
+        "Count": 48,
+        "Items": [
+          "44",
+          "69"
+        ]
+      }
+    }
+  },
+  "team_comp_3": {
+    "Count": 2246.0,
+    "Placement": 4.44,
+    "Trait_tiers": {
+      "brawler": 2,
+      "blaster": 2,
+      "chrono": 1,
+      "mercenary": 1
+    },
+    "Champions": {
+      "Blitzcrank": {
+        "Count": 98,
+        "Items": [
+          "67"
+        ]
+      },
+      "ChoGath": {
+        "Count": 98,
+        "Items": [
+          "36",
+          "47"
+        ]
+      },
+      "Vi": {
+        "Count": 96,
+        "Items": [
+          "36",
+          "45",
+          "47"
+        ]
+      },
+      "Malphite": {
+        "Count": 95,
+        "Items": []
+      },
+      "Jinx": {
+        "Count": 81,
+        "Items": [
+          "12",
+          "57",
+          "29",
+          "15",
+          "11",
+          "19",
+          "79",
+          "69",
+          "26"
+        ]
+      },
+      "Ezreal": {
+        "Count": 75,
+        "Items": [
+          "57"
+        ]
+      },
+      "MissFortune": {
+        "Count": 64,
+        "Items": [
+          "44",
+          "69",
+          "57",
+          "33",
+          "14",
+          "34"
+        ]
+      },
+      "Graves": {
+        "Count": 60,
+        "Items": []
+      }
+    }
+  },
+  "team_comp_4": {
+    "Count": 1182.0,
+    "Placement": 4.36,
+    "Trait_tiers": {
+      "blademaster": 1,
+      "celestial": 2,
+      "chrono": 1,
+      "manareaver": 1,
+      "protector": 1,
+      "sniper": 1
+    },
+    "Champions": {
+      "Xayah": {
+        "Count": 93,
+        "Items": [
+          "29",
+          "69",
+          "19",
+          "11",
+          "15",
+          "12",
+          "79",
+          "26"
+        ]
+      },
+      "Shen": {
+        "Count": 92,
+        "Items": [
+          "47",
+          "45",
+          "55",
+          "67"
+        ]
+      },
+      "JarvanIV": {
+        "Count": 91,
+        "Items": [
+          "33",
+          "35",
+          "45",
+          "27",
+          "36",
+          "55",
+          "47",
+          "3",
+          "66"
+        ]
+      },
+      "Rakan": {
+        "Count": 79,
+        "Items": [
+          "37",
+          "45",
+          "14"
+        ]
+      },
+      "Caitlyn": {
+        "Count": 77,
+        "Items": []
+      },
+      "Ashe": {
+        "Count": 65,
+        "Items": []
+      },
+      "Fiora": {
+        "Count": 60,
+        "Items": [
+          "27"
+        ]
+      },
+      "Kassadin": {
+        "Count": 58,
+        "Items": []
+      },
+      "Irelia": {
+        "Count": 32,
+        "Items": []
+      }
+    }
+  },
+  "team_comp_5": {
+    "Count": 512.0,
+    "Placement": 4.4,
+    "Trait_tiers": {
+      "blademaster": 1,
+      "blaster": 1,
+      "chrono": 1,
+      "cybernetic": 2,
+      "manareaver": 1,
+      "mercenary": 1,
+      "valkyrie": 1
+    },
+    "Champions": {
+      "Irelia": {
+        "Count": 100,
+        "Items": [
+          "19",
+          "29",
+          "11",
+          "28",
+          "15",
+          "16"
+        ]
+      },
+      "Vi": {
+        "Count": 100,
+        "Items": [
+          "36",
+          "45",
+          "47"
+        ]
+      },
+      "Leona": {
+        "Count": 99,
+        "Items": [
+          "36",
+          "6",
+          "4",
+          "67",
+          "47"
+        ]
+      },
+      "Lucian": {
+        "Count": 99,
+        "Items": [
+          "57",
+          "12"
+        ]
+      },
+      "Fiora": {
+        "Count": 99,
+        "Items": [
+          "4",
+          "47",
+          "67"
+        ]
+      },
+      "Ekko": {
+        "Count": 92,
+        "Items": [
+          "36",
+          "37",
+          "57",
+          "45",
+          "33"
+        ]
+      },
+      "Kayle": {
+        "Count": 46,
+        "Items": [
+          "23"
+        ]
+      },
+      "Thresh": {
+        "Count": 46,
+        "Items": []
+      },
+      "MissFortune": {
+        "Count": 37,
+        "Items": []
+      },
+      "Kassadin": {
+        "Count": 34,
+        "Items": []
+      },
+      "Shen": {
+        "Count": 33,
+        "Items": []
+      }
+    }
+  },
+  "team_comp_6": {
+    "Count": 1883.0,
+    "Placement": 4.41,
+    "Trait_tiers": {
+      "blademaster": 1,
+      "celestial": 1,
+      "chrono": 1,
+      "manareaver": 1,
+      "mercenary": 1,
+      "sniper": 1,
+      "valkyrie": 1,
+      "vanguard": 1
+    },
+    "Champions": {
+      "WuKong": {
+        "Count": 76,
+        "Items": [
+          "45",
+          "36",
+          "47",
+          "37"
+        ]
+      },
+      "Kassadin": {
+        "Count": 76,
+        "Items": [
+          "47"
+        ]
+      },
+      "Kayle": {
+        "Count": 69,
+        "Items": [
+          "23",
+          "22",
+          "15",
+          "69",
+          "37"
+        ]
+      },
+      "Shen": {
+        "Count": 67,
+        "Items": []
+      },
+      "Irelia": {
+        "Count": 48,
+        "Items": [
+          "19",
+          "29",
+          "15"
+        ]
+      },
+      "MissFortune": {
+        "Count": 47,
+        "Items": [
+          "69",
+          "44"
+        ]
+      },
+      "Ashe": {
+        "Count": 42,
+        "Items": []
+      },
+      "Jhin": {
+        "Count": 39,
+        "Items": [
+          "29",
+          "19",
+          "26",
+          "15",
+          "11"
+        ]
+      },
+      "Thresh": {
+        "Count": 39,
+        "Items": []
+      },
+      "Lulu": {
+        "Count": 37,
+        "Items": []
+      },
+      "Jayce": {
+        "Count": 36,
+        "Items": []
+      }
+    }
+  }
+}
