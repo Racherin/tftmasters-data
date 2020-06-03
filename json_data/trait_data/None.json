@@ -1,0 +1,186 @@
+{
+  "Blademaster": {
+    "win_rate": "11.68%",
+    "top_four_rate": "50.20%",
+    "pick_rate": "5.30",
+    "average_units": "2.50",
+    "average_tier": "0.66",
+    "average_placement": 4.5
+  },
+  "Blaster": {
+    "win_rate": "12.66%",
+    "top_four_rate": "51.64%",
+    "pick_rate": "4.89",
+    "average_units": "2.10",
+    "average_tier": "0.83",
+    "average_placement": 4.4
+  },
+  "Brawler": {
+    "win_rate": "13.40%",
+    "top_four_rate": "51.45%",
+    "pick_rate": "4.90",
+    "average_units": "2.69",
+    "average_tier": "1.14",
+    "average_placement": 4.4
+  },
+  "Celestial": {
+    "win_rate": "12.57%",
+    "top_four_rate": "51.26%",
+    "pick_rate": "5.22",
+    "average_units": "2.31",
+    "average_tier": "1.03",
+    "average_placement": 4.4
+  },
+  "Chrono": {
+    "win_rate": "12.57%",
+    "top_four_rate": "50.42%",
+    "pick_rate": "8.31",
+    "average_units": "1.96",
+    "average_tier": "0.87",
+    "average_placement": 4.4
+  },
+  "Cybernetic": {
+    "win_rate": "12.34%",
+    "top_four_rate": "51.24%",
+    "pick_rate": "6.27",
+    "average_units": "1.55",
+    "average_tier": "0.19",
+    "average_placement": 4.4
+  },
+  "DarkStar": {
+    "win_rate": "12.40%",
+    "top_four_rate": "50.95%",
+    "pick_rate": "4.95",
+    "average_units": "1.82",
+    "average_tier": "0.23",
+    "average_placement": 4.5
+  },
+  "Demolitionist": {
+    "win_rate": "14.72%",
+    "top_four_rate": "52.34%",
+    "pick_rate": "3.60",
+    "average_units": "1.76",
+    "average_tier": "0.70",
+    "average_placement": 4.4
+  },
+  "Infiltrator": {
+    "win_rate": "14.90%",
+    "top_four_rate": "52.41%",
+    "pick_rate": "3.51",
+    "average_units": "2.32",
+    "average_tier": "0.98",
+    "average_placement": 4.3
+  },
+  "ManaReaver": {
+    "win_rate": "12.13%",
+    "top_four_rate": "49.64%",
+    "pick_rate": "4.51",
+    "average_units": "1.84",
+    "average_tier": "0.76",
+    "average_placement": 4.5
+  },
+  "MechPilot": {
+    "win_rate": "15.89%",
+    "top_four_rate": "53.67%",
+    "pick_rate": "2.63",
+    "average_units": "1.79",
+    "average_tier": "0.39",
+    "average_placement": 4.3
+  },
+  "Mercenary": {
+    "win_rate": "14.82%",
+    "top_four_rate": "57.01%",
+    "pick_rate": "4.72",
+    "average_units": "1.15",
+    "average_tier": "1.00",
+    "average_placement": 4.1
+  },
+  "Mystic": {
+    "win_rate": "16.21%",
+    "top_four_rate": "57.69%",
+    "pick_rate": "3.85",
+    "average_units": "1.57",
+    "average_tier": "0.57",
+    "average_placement": 4.1
+  },
+  "Protector": {
+    "win_rate": "10.91%",
+    "top_four_rate": "50.52%",
+    "pick_rate": "1.79",
+    "average_units": "1.86",
+    "average_tier": "0.73",
+    "average_placement": 4.5
+  },
+  "Rebel": {
+    "win_rate": "12.97%",
+    "top_four_rate": "51.93%",
+    "pick_rate": "4.44",
+    "average_units": "2.71",
+    "average_tier": "0.62",
+    "average_placement": 4.4
+  },
+  "Sniper": {
+    "win_rate": "10.68%",
+    "top_four_rate": "47.70%",
+    "pick_rate": "2.91",
+    "average_units": "1.80",
+    "average_tier": "0.80",
+    "average_placement": 4.6
+  },
+  "Sorcerer": {
+    "win_rate": "14.91%",
+    "top_four_rate": "51.22%",
+    "pick_rate": "3.83",
+    "average_units": "2.53",
+    "average_tier": "1.17",
+    "average_placement": 4.4
+  },
+  "SpacePirate": {
+    "win_rate": "13.01%",
+    "top_four_rate": "51.76%",
+    "pick_rate": "4.86",
+    "average_units": "1.34",
+    "average_tier": "0.28",
+    "average_placement": 4.4
+  },
+  "StarGuardian": {
+    "win_rate": "16.09%",
+    "top_four_rate": "56.26%",
+    "pick_rate": "2.25",
+    "average_units": "1.92",
+    "average_tier": "0.34",
+    "average_placement": 4.2
+  },
+  "Starship": {
+    "win_rate": "18.47%",
+    "top_four_rate": "64.12%",
+    "pick_rate": "1.02",
+    "average_units": "1.00",
+    "average_tier": "1.00",
+    "average_placement": 3.8
+  },
+  "Valkyrie": {
+    "win_rate": "12.98%",
+    "top_four_rate": "52.92%",
+    "pick_rate": "5.41",
+    "average_units": "1.40",
+    "average_tier": "0.39",
+    "average_placement": 4.4
+  },
+  "Vanguard": {
+    "win_rate": "11.19%",
+    "top_four_rate": "46.02%",
+    "pick_rate": "4.64",
+    "average_units": "1.73",
+    "average_tier": "0.69",
+    "average_placement": 4.7
+  },
+  "Void": {
+    "win_rate": "14.19%",
+    "top_four_rate": "52.52%",
+    "pick_rate": "4.57",
+    "average_units": "1.56",
+    "average_tier": "0.28",
+    "average_placement": 4.4
+  }
+}
