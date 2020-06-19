@@ -65,34 +65,40 @@
         ]
       }
     },
-    "Positions": {
+    "first_row": {
       "a1": "None",
-      "a2": "Gnar",
-      "a3": "None",
+      "a2": "None",
+      "a3": "Blitzcrank",
       "a4": "None",
-      "a5": "None",
-      "a6": "Vi",
-      "a7": "None",
-      "b1": "Malphite",
+      "a5": "Malphite",
+      "a6": "None",
+      "a7": "None"
+    },
+    "second_row": {
+      "b1": "None",
       "b2": "None",
       "b3": "None",
       "b4": "None",
-      "b5": "None",
+      "b5": "Gnar",
       "b6": "None",
-      "b7": "None",
-      "c1": "Jinx",
-      "c2": "AurelionSol",
+      "b7": "None"
+    },
+    "third_row": {
+      "c1": "None",
+      "c2": "None",
       "c3": "None",
-      "c4": "None",
+      "c4": "Vi",
       "c5": "None",
-      "c6": "None",
-      "c7": "None",
-      "d1": "Blitzcrank",
+      "c6": "Aurelionsol",
+      "c7": "None"
+    },
+    "fourth_row": {
+      "d1": "None",
       "d2": "None",
-      "d3": "None",
+      "d3": "Jinx",
       "d4": "None",
-      "d5": "Ezreal",
-      "d6": "None",
+      "d5": "None",
+      "d6": "Ezreal",
       "d7": "None"
     },
     "first_item_priortiy": {
@@ -175,35 +181,41 @@
         ]
       }
     },
-    "Positions": {
+    "first_row": {
       "a1": "None",
-      "a2": "None",
-      "a3": "Annie",
-      "a4": "Riven",
-      "a5": "None",
+      "a2": "Annie",
+      "a3": "None",
+      "a4": "None",
+      "a5": "Riven",
       "a6": "None",
-      "a7": "None",
+      "a7": "None"
+    },
+    "second_row": {
       "b1": "None",
       "b2": "None",
       "b3": "None",
       "b4": "None",
       "b5": "None",
       "b6": "None",
-      "b7": "None",
+      "b7": "None"
+    },
+    "third_row": {
       "c1": "None",
       "c2": "None",
       "c3": "None",
       "c4": "None",
       "c5": "None",
       "c6": "None",
-      "c7": "None",
-      "d1": "Zoe",
-      "d2": "Viktor",
-      "d3": "Syndra",
-      "d4": "Ahri",
-      "d5": "TwistedFate",
-      "d6": "Xerath",
-      "d7": "Fizz"
+      "c7": "None"
+    },
+    "fourth_row": {
+      "d1": "Fizz",
+      "d2": "Ahri",
+      "d3": "Viktor",
+      "d4": "Syndra",
+      "d5": "Zoe",
+      "d6": "TwistedFate",
+      "d7": "Xerath"
     },
     "first_item_priortiy": {
       "first": "None",
@@ -279,34 +291,40 @@
         ]
       }
     },
-    "Positions": {
+    "first_row": {
       "a1": "None",
-      "a2": "Nautilus",
-      "a3": "Mordekaiser",
-      "a4": "Jayce",
-      "a5": "None",
-      "a6": "WuKong",
-      "a7": "None",
+      "a2": "None",
+      "a3": "Jayce",
+      "a4": "WuKong",
+      "a5": "Nautilus",
+      "a6": "Mordekaiser",
+      "a7": "None"
+    },
+    "second_row": {
       "b1": "None",
       "b2": "None",
       "b3": "None",
       "b4": "None",
       "b5": "None",
       "b6": "None",
-      "b7": "None",
+      "b7": "None"
+    },
+    "third_row": {
       "c1": "None",
       "c2": "None",
       "c3": "None",
       "c4": "None",
       "c5": "None",
       "c6": "None",
-      "c7": "None",
+      "c7": "None"
+    },
+    "fourth_row": {
       "d1": "Karma",
       "d2": "Cassiopeia",
       "d3": "None",
-      "d4": "Soraka",
+      "d4": "Lulu",
       "d5": "None",
-      "d6": "Lulu",
+      "d6": "Soraka",
       "d7": "None"
     },
     "first_item_priortiy": {
@@ -401,33 +419,39 @@
         "Items": []
       }
     },
-    "Positions": {
-      "a1": "None",
+    "first_row": {
+      "a1": "Vi",
       "a2": "None",
-      "a3": "Vi",
-      "a4": "None",
-      "a5": "Leona",
-      "a6": "Wukong",
-      "a7": "Fiora",
+      "a3": "None",
+      "a4": "Fiora",
+      "a5": "WuKong",
+      "a6": "Leona",
+      "a7": "None"
+    },
+    "second_row": {
       "b1": "None",
       "b2": "None",
       "b3": "Irelia",
       "b4": "None",
       "b5": "None",
       "b6": "None",
-      "b7": "None",
+      "b7": "None"
+    },
+    "third_row": {
       "c1": "None",
       "c2": "None",
       "c3": "None",
       "c4": "None",
       "c5": "Thresh",
       "c6": "None",
-      "c7": "None",
+      "c7": "None"
+    },
+    "fourth_row": {
       "d1": "None",
-      "d2": "Vayne",
-      "d3": "None",
-      "d4": "None",
-      "d5": "Ekko",
+      "d2": "None",
+      "d3": "Ekko",
+      "d4": "Caitlyn",
+      "d5": "Vayne",
       "d6": "None",
       "d7": "None"
     },
@@ -515,34 +539,40 @@
         "Items": []
       }
     },
-    "Positions": {
-      "a1": "None",
+    "first_row": {
+      "a1": "Yasuo",
       "a2": "None",
-      "a3": "Riven",
-      "a4": "Shen",
-      "a5": "None",
+      "a3": "None",
+      "a4": "None",
+      "a5": "MasterYi",
       "a6": "None",
-      "a7": "None",
-      "b1": "Fiora",
+      "a7": "None"
+    },
+    "second_row": {
+      "b1": "None",
       "b2": "None",
-      "b3": "Irelia",
-      "b4": "None",
-      "b5": "Yasuo",
-      "b6": "MasterYi",
-      "b7": "None",
+      "b3": "None",
+      "b4": "Shen",
+      "b5": "Riven",
+      "b6": "None",
+      "b7": "None"
+    },
+    "third_row": {
       "c1": "None",
-      "c2": "None",
+      "c2": "Irelia",
       "c3": "None",
       "c4": "None",
       "c5": "Zed",
       "c6": "None",
-      "c7": "None",
+      "c7": "None"
+    },
+    "fourth_row": {
       "d1": "None",
-      "d2": "None",
+      "d2": "Fiora",
       "d3": "None",
-      "d4": "Xayah",
+      "d4": "None",
       "d5": "None",
-      "d6": "None",
+      "d6": "Xayah",
       "d7": "None"
     },
     "first_item_priortiy": {
@@ -624,30 +654,36 @@
         "Items": []
       }
     },
-    "Positions": {
+    "first_row": {
       "a1": "None",
-      "a2": "WuKong",
-      "a3": "Nautlius",
+      "a2": "None",
+      "a3": "None",
       "a4": "None",
-      "a5": "Gnar",
+      "a5": "Nautlius",
       "a6": "None",
-      "a7": "None",
+      "a7": "WuKong"
+    },
+    "second_row": {
       "b1": "None",
       "b2": "None",
       "b3": "None",
-      "b4": "None",
+      "b4": "Gnar",
       "b5": "None",
-      "b6": "None",
-      "b7": "None",
+      "b6": "Vi",
+      "b7": "None"
+    },
+    "third_row": {
       "c1": "None",
       "c2": "None",
       "c3": "None",
       "c4": "None",
       "c5": "None",
       "c6": "None",
-      "c7": "None",
-      "d1": "Caitlyn",
-      "d2": "Ashe",
+      "c7": "None"
+    },
+    "fourth_row": {
+      "d1": "Ashe",
+      "d2": "Caitlyn",
       "d3": "Teemo",
       "d4": "None",
       "d5": "None",
