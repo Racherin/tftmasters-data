@@ -102,14 +102,14 @@
       "d7": "None"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "5",
+      "second": "1",
+      "third": "7"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "12",
+      "second": "57",
+      "third": "79"
     }
   },
   "team_comp_6": {
@@ -218,14 +218,14 @@
       "d7": "Xerath"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "4",
+      "second": "3",
+      "third": "8"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "44",
+      "second": "33",
+      "third": "69"
     }
   },
   "team_comp_5": {
@@ -328,14 +328,14 @@
       "d7": "None"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "4",
+      "second": "3",
+      "third": "2"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "44",
+      "second": "37",
+      "third": "22"
     }
   },
   "team_comp_3": {
@@ -456,14 +456,14 @@
       "d7": "None"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "1",
+      "second": "9",
+      "third": "5"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "19",
+      "second": "29",
+      "third": "36"
     }
   },
   "team_comp_2": {
@@ -576,14 +576,14 @@
       "d7": "None"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "1",
+      "second": "2",
+      "third": "3"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "22",
+      "second": "69",
+      "third": "33"
     }
   },
   "team_comp_4": {
@@ -691,14 +691,14 @@
       "d7": "Karma"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "1",
+      "second": "9",
+      "third": "2"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "29",
+      "second": "11",
+      "third": "19"
     }
   }
 }
