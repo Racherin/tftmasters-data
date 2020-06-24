@@ -123,7 +123,7 @@
     "item_priority": {
       "first": "29",
       "second": "19",
-      "third": "28"
+      "third": "15"
     }
   },
   "team_comp_2": {
@@ -579,7 +579,7 @@
     "item_priority": {
       "first": "24",
       "second": "57",
-      "third": "44"
+      "third": "37"
     }
   },
   "team_comp_6": {
@@ -685,9 +685,9 @@
       "third": "7"
     },
     "item_priority": {
-      "first": "44",
-      "second": "37",
-      "third": "22"
+      "first": "37",
+      "second": "22",
+      "third": "15"
     }
   },
   "team_comp_7": {
