@@ -530,13 +530,13 @@
       }
     },
     "first_row": {
-      "a1": "None",
+      "a1": "Nautilus",
       "a2": "None",
-      "a3": "None",
+      "a3": "Jayce",
       "a4": "None",
-      "a5": "None",
+      "a5": "WuKong",
       "a6": "None",
-      "a7": "None"
+      "a7": "Mordekaiser"
     },
     "second_row": {
       "b1": "None",
@@ -557,23 +557,23 @@
       "c7": "None"
     },
     "fourth_row": {
-      "d1": "None",
-      "d2": "None",
+      "d1": "Karma",
+      "d2": "Cassiopeia",
       "d3": "None",
       "d4": "None",
       "d5": "None",
-      "d6": "None",
-      "d7": "None"
+      "d6": "Lulu",
+      "d7": "Soraka"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "4",
+      "second": "3",
+      "third": "7"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "37",
+      "second": "22",
+      "third": "15"
     }
   },
   "team_comp_6": {
