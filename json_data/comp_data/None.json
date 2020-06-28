@@ -135,7 +135,6 @@
     "Top4Rate": 56.31,
     "PickPct": 5.63,
     "Trait_tiers": {
-      "brawler": 1,
       "blaster": 1,
       "chrono": 1,
       "demolitionist": 1,
@@ -185,12 +184,6 @@
         ],
         "isCarry": true
       },
-      "Blitzcrank": {
-        "Count": 57,
-        "Items": [
-          "67"
-        ]
-      },
       "MasterYi": {
         "Count": 47,
         "Items": []
@@ -213,7 +206,7 @@
     },
     "first_row": {
       "a1": "None",
-      "a2": "Blitzcrank",
+      "a2": "None",
       "a3": "None",
       "a4": "None",
       "a5": "Gangplank",
