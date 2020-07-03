@@ -473,7 +473,7 @@
     }
   },
   "team_comp_5": {
-    "comp_name": "Vanguard & Darkstar",
+    "comp_name": "Vanguard & Mystic",
     "Thumbnail_picture": "Nautilus",
     "Count": 8419.0,
     "Placement": 4.72,
@@ -572,14 +572,14 @@
       "d7": "Lulu"
     },
     "first_item_priortiy": {
-      "first": "2",
-      "second": "9",
-      "third": "1"
+      "first": "3",
+      "second": "5",
+      "third": "2"
     },
     "item_priority": {
-      "first": "29",
-      "second": "19",
-      "third": "15"
+      "first": "37",
+      "second": "15",
+      "third": "22"
     }
   }
 }
