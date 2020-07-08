@@ -152,7 +152,8 @@
           "19",
           "12"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Vi": {
         "Count": 99,
@@ -161,7 +162,8 @@
           "45",
           "67"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Irelia": {
         "Count": 99,
@@ -170,7 +172,8 @@
           "19",
           "15"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Buff"
       },
       "Leona": {
         "Count": 98,
@@ -178,14 +181,16 @@
           "36",
           "67",
           "47"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Fiora": {
         "Count": 94,
         "Items": [
           "47",
           "67"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Ekko": {
         "Count": 76,
@@ -194,19 +199,23 @@
           "37",
           "36"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "WuKong": {
         "Count": 72,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Caitlyn": {
         "Count": 60,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Thresh": {
         "Count": 55,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       }
     },
    "first_row": {
@@ -279,23 +288,27 @@
           "29",
           "57"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Ezreal": {
         "Count": 97,
         "Items": [
           "57"
-        ]
+        ],
+        "Indicator":"Nerf"
       },
       "Malphite": {
         "Count": 92,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Blitzcrank": {
         "Count": 78,
         "Items": [
           "67"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Gnar": {
         "Count": 71,
@@ -304,7 +317,8 @@
           "45",
           "55"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "AurelionSol": {
         "Count": 70,
@@ -313,13 +327,15 @@
           "37",
           "33"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Vi": {
         "Count": 59,
         "Items": [
           "36"
-        ]
+        ],
+        "Indicator":"Nerf"
       }
     },
      "first_row": {
@@ -389,7 +405,8 @@
           "27",
           "55",
           "25"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Viktor": {
         "Count": 86,
@@ -398,23 +415,28 @@
           "14",
           "48"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Syndra": {
         "Count": 72,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       },
       "Zoe": {
         "Count": 69,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       },
       "Ahri": {
         "Count": 68,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "TwistedFate": {
         "Count": 64,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Riven": {
         "Count": 63,
@@ -423,11 +445,13 @@
           "33",
           "36"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Fizz": {
         "Count": 61,
-        "Items": []
+        "Items": [],
+        "Indicator":"Nerf"
       }
     },
    "first_row": {
@@ -497,21 +521,25 @@
           "36",
           "45"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "Nautilus": {
         "Count": 66,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Mordekaiser": {
         "Count": 58,
         "Items": [
           "36"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Karma": {
         "Count": 57,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       },
       "Jayce": {
         "Count": 51,
@@ -520,20 +548,30 @@
           "36",
           "66"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "Soraka": {
         "Count": 47,
         "Items": [
           "14"
-        ]
+        ],
+        "Indicator":"Buff"
+      },
+      "Lulu": {
+        "Count": 47,
+        "Items": [
+          "14"
+        ],
+        "Indicator":"Buff"
       },
       "Cassiopeia": {
         "Count": 46,
         "Items": [
           "37",
           "22"
-        ]
+        ],
+        "Indicator":"None"
       }
     },
     "first_row": {
@@ -604,7 +642,8 @@
           "45",
           "55"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "MasterYi": {
         "Count": 57,
@@ -613,37 +652,48 @@
           "69",
           "23"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "Yasuo": {
         "Count": 56,
         "Items": [
           "17",
           "14"
-        ]
+        ],
+        "Indicator":"Buff"
       },
       "Riven": {
         "Count": 56,
-        "Items": []
+        "Items": [],
+        "Indicator":"Nerf"
       },
-      "Rakan": {
+      "Fiora": {
         "Count": 46,
         "Items": [
           "14",
           "37"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Zed": {
         "Count": 46,
         "Items": [
           "18",
           "19"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Irelia": {
         "Count": 41,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       }
+      "Xayah":{
+      "Count":41,
+      "Items":[],
+      "Indicator":"Buff"
+    }
     },
    "first_row": {
       "a1": "None",
@@ -716,7 +766,8 @@
           "19",
           "26"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "JarvanIV": {
         "Count": 79,
@@ -725,14 +776,16 @@
           "36",
           "77"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Buff"
       },
       "TwistedFate": {
         "Count": 77,
         "Items": [
           "37",
           "39"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Rakan": {
         "Count": 76,
@@ -741,23 +794,28 @@
           "37",
           "45"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Buff"
       },
       "Ashe": {
         "Count": 74,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       },
       "Zoe": {
         "Count": 73,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       },
       "Karma": {
         "Count": 53,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       },
       "Soraka": {
         "Count": 47,
-        "Items": []
+        "Items": [],
+        "Indicator":"Buff"
       }
     },
     "first_row": {
