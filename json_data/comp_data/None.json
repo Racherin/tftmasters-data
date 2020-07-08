@@ -21,7 +21,8 @@
           "24",
           "26"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "Illaoi": {
         "Count": 100,
@@ -30,13 +31,15 @@
           "55",
           "66"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"None"
       },
       "Cassiopeia": {
         "Count": 97,
         "Items": [
           "37"
-        ]
+        ],
+        "Indicator":"None"
       },
       "Viktor": {
         "Count": 90,
@@ -45,32 +48,38 @@
           "39",
           "33"
         ],
-        "isCarry": true
+        "isCarry": true,
+        "Indicator":"Nerf"
       },
       "Ezreal": {
         "Count": 89,
-        "Items": []
+        "Items": [],
+        "Indicator":"Nerf"
       },
       "Nocturne": {
         "Count": 79,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Urgot": {
         "Count": 74,
         "Items": [
           "15",
           "14"
-        ]
+        ],
+        "Indicator":"Adjusted"
       },
       "Blitzcrank": {
         "Count": 61,
-        "Items": []
+        "Items": [],
+        "Indicator":"None"
       },
       "Gnar": {
         "Count": 48,
         "Items": [
           "36"
-        ]
+        ],
+        "Indicator":"None"
       }
     },
      "first_row": {
