@@ -244,14 +244,14 @@
       "d7": "Ashe"
     },
     "first_item_priortiy": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "7",
+      "second": "2",
+      "third": "9"
     },
     "item_priority": {
-      "first": "None",
-      "second": "None",
-      "third": "None"
+      "first": "77",
+      "second": "29",
+      "third": "19"
     }
   },
   "team_comp_3": {
@@ -509,7 +509,7 @@
   },
   "team_comp_5": {
     "comp_name": "Cybernetic & Blademaster",
-    "Thumbnail_picture": "Vi",
+    "Thumbnail_picture": "Irelia",
     "Count": 6468.0,
     "Placement": 4.71,
     "WinRate": 11.16,
@@ -639,7 +639,7 @@
   },
   "team_comp_6": {
     "comp_name": "Brawler & Rebel",
-    "Thumbnail_picture": "Ezreal",
+    "Thumbnail_picture": "Jinx",
     "Count": 5583.0,
     "Placement": 4.78,
     "WinRate": 5.87,
