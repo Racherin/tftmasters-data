@@ -767,7 +767,8 @@
     "PickPct": 9.13,
     "Trait_tiers": {
       "cybernetic": 2,
-      "mana-reaver":1
+      "mana-reaver":1,
+      "blademaster":1
     },
     "Champions": {
       "Vi": {
