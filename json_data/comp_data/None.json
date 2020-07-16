@@ -766,7 +766,8 @@
     "Top4Rate": 47.11,
     "PickPct": 9.13,
     "Trait_tiers": {
-      "cybernetic": 2
+      "cybernetic": 2,
+      "mana-reaver":1
     },
     "Champions": {
       "Vi": {
