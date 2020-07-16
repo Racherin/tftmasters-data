@@ -123,10 +123,10 @@
       "fourth_row":{
          "d1":"Ashe",
          "d2":"Jhin",
-         "d3":"None",
+         "d3":"Lulu",
          "d4":"None",
          "d5":"Shaco",
-         "d6":"Xearth",
+         "d6":"Xerath",
          "d7":"Karma"
       },
       "first_item_priortiy":{
@@ -674,7 +674,9 @@
       "Top4Rate":47.11,
       "PickPct":9.13,
       "Trait_tiers":{
-         "cybernetic":2
+         "cybernetic":2,
+         "blademaster":1,
+         "manareaver":1
       },
       "Champions":{
          "Vi":{
