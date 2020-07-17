@@ -388,6 +388,7 @@
       "third": "36"
     }
   },
+<<<<<<< HEAD
   "team_comp_4": {
     "comp_name": "Blademaster & Celestial",
     "Thumbnail_picture": "Shen",
@@ -396,6 +397,16 @@
     "WinRate": 12.1,
     "Top4Rate": 50.86,
     "PickPct": 7.25,
+=======
+  "team_comp_6": {
+    "comp_name": "Starguardian & Protector",
+    "Thumbnail_picture": "Neeko",
+    "Count": 3902.0,
+    "Placement": 4.55,
+    "WinRate": 14.04,
+    "Top4Rate": 48.46,
+    "PickPct": 6.72,
+>>>>>>> parent of 5a7e06f... Update None.json
     "Trait_tiers": {
       "blademaster": 2,
       "celestial": 1,
