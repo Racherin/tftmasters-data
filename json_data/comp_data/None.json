@@ -83,7 +83,7 @@
         "Count": 44,
         "Items": [],
         "Indicator": "None"
-      },
+      }
     },
    "first_row": {
       "a1": "None",
@@ -397,7 +397,6 @@
     "WinRate": 12.1,
     "Top4Rate": 50.86,
     "PickPct": 7.25,
-=======
   "team_comp_6": {
     "comp_name": "Starguardian & Protector",
     "Thumbnail_picture": "Neeko",
@@ -406,7 +405,6 @@
     "WinRate": 14.04,
     "Top4Rate": 48.46,
     "PickPct": 6.72,
->>>>>>> parent of 5a7e06f... Update None.json
     "Trait_tiers": {
       "blademaster": 2,
       "celestial": 1,
