@@ -115,7 +115,7 @@
     "fourth_row": {
       "d1": "Ashe",
       "d2": "Jhin",
-      "d3": "None",
+      "d3": "Lulu",
       "d4": "None",
       "d5": "Shaco",
       "d6": "Xearth",
@@ -388,7 +388,6 @@
       "third": "36"
     }
   },
-<<<<<<< HEAD
   "team_comp_4": {
     "comp_name": "Blademaster & Celestial",
     "Thumbnail_picture": "Shen",
@@ -586,8 +585,8 @@
        "Lulu": {
         "Count": 42,
         "Items": [],
-        "Indicator": "Buff"
-      },
+        "Indicator": "None"
+      }
     },
     "first_row": {
       "a1": "Mordekaiser",
