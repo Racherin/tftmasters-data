@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "team_comp_1": {
     "comp_name": "Darkstar & Celestial",
     "Thumbnail_picture": "Karma",
@@ -83,6 +84,147 @@
         "Count": 44,
         "Items": [],
         "Indicator": "None"
+=======
+   "team_comp_1":{
+      "comp_name":"Darkstar & Celestial",
+      "Thumbnail_picture":"Karma",
+      "Count":24192.0,
+      "Placement":4.21,
+      "WinRate":15.54,
+      "Top4Rate":55.22,
+      "PickPct":24.81,
+      "Trait_tiers":{
+         "celestial":1,
+         "darkstar":2,
+         "mystic":1,
+         "protector":1,
+         "sniper":1
+      },
+      "Champions":{
+         "Karma":{
+            "Count":94,
+            "Items":[
+
+            ],
+            "Indicator":"Buff"
+         },
+         "Jhin":{
+            "Count":91,
+            "Items":[
+               "29",
+               "19",
+               "15"
+            ],
+            "Indicator":"Buff",
+            "isCarry":true
+         },
+         "JarvanIV":{
+            "Count":91,
+            "Items":[
+               "77",
+               "36",
+               "55"
+            ],
+            "Indicator":"Buff",
+            "isCarry":true
+         },
+         "Ashe":{
+            "Count":85,
+            "Items":[
+               "14",
+               "89",
+               "26"
+            ],
+            "Indicator":"Buff",
+            "isCarry":true
+         },
+         "Shaco":{
+            "Count":74,
+            "Items":[
+               "15",
+               "16",
+               "22"
+            ],
+            "Indicator":"Buff",
+            "isCarry":true
+         },
+         "Rakan":{
+            "Count":62,
+            "Items":[
+
+            ],
+            "Indicator":"Buff"
+         },
+         "Mordekaiser":{
+            "Count":58,
+            "Items":[
+
+            ],
+            "Indicator":"Buff"
+         },
+         "Xerath":{
+            "Count":49,
+            "Items":[
+               "23",
+               "69",
+               "33"
+            ],
+            "Indicator":"None"
+         },
+         "Lulu":{
+            "Count":44,
+            "Items":[
+
+            ],
+            "Indicator":"None"
+         }
+      },
+      "first_row":{
+         "a1":"None",
+         "a2":"Rakan",
+         "a3":"None",
+         "a4":"Mordekaiser",
+         "a5":"None",
+         "a6":"JarvanIV",
+         "a7":"None"
+      },
+      "second_row":{
+         "b1":"None",
+         "b2":"None",
+         "b3":"None",
+         "b4":"None",
+         "b5":"None",
+         "b6":"None",
+         "b7":"None"
+      },
+      "third_row":{
+         "c1":"None",
+         "c2":"None",
+         "c3":"None",
+         "c4":"None",
+         "c5":"None",
+         "c6":"None",
+         "c7":"None"
+      },
+      "fourth_row":{
+         "d1":"Ashe",
+         "d2":"Jhin",
+         "d3":"None",
+         "d4":"None",
+         "d5":"Shaco",
+         "d6":"Xearth",
+         "d7":"Karma"
+      },
+      "first_item_priortiy":{
+         "first":"9",
+         "second":"2",
+         "third":"1"
+      },
+      "item_priority":{
+         "first":"29",
+         "second":"77",
+         "third":"19"
+>>>>>>> parent of d9a84f4... Update None.json
       }
     },
    "first_row": {
@@ -587,6 +729,7 @@
         "Items": [],
         "Indicator": "None"
       }
+<<<<<<< HEAD
     },
     "first_row": {
       "a1": "Mordekaiser",
@@ -703,6 +846,70 @@
       "Shen": {
         "Count": 59,
         "Items": [
+=======
+   },
+   "team_comp_8":{
+      "comp_name":"Cybernetic & Blademaster",
+      "Thumbnail_picture":"Irelia",
+      "Count":5305.0,
+      "Placement":4.64,
+      "WinRate":10.14,
+      "Top4Rate":47.11,
+      "PickPct":9.13,
+      "Trait_tiers":{
+         "cybernetic":2
+      },
+      "Champions":{
+         "Vi":{
+            "Count":85,
+            "Items":[
+               "36",
+               "45",
+               "47"
+            ],
+            "Indicator":"Nerf"
+         },
+         "Irelia":{
+            "Count":62,
+            "Items":[
+               "19",
+               "29",
+               "28"
+            ],
+            "Indicator":"Buff",
+            "isCarry":true
+         },
+         "Leona":{
+            "Count":61,
+            "Items":[
+               "36",
+               "67",
+               "47"
+            ],
+            "Indicator":"None"
+         },
+         "Vayne":{
+            "Count":60,
+            "Items":[
+               "29",
+               "19",
+               "12"
+            ],
+            "Indicator":"Nerf",
+            "isCarry":true
+         },
+         "Fiora":{
+            "Count":59,
+            "Items":[
+               "47",
+               "67"
+            ],
+            "Indicator":"None"
+         },
+         "Thresh":{
+            "Count":59,
+            "Items":[
+>>>>>>> parent of d9a84f4... Update None.json
 
 
         ],
