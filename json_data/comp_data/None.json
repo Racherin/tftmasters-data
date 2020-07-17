@@ -79,6 +79,7 @@
         "Items": [],
         "Indicator": "None"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
    "team_comp_1":{
       "comp_name":"Darkstar & Celestial",
@@ -220,6 +221,8 @@
          "second":"77",
          "third":"19"
 >>>>>>> parent of d9a84f4... Update None.json
+=======
+>>>>>>> parent of b713d66... update
 =======
 >>>>>>> parent of b713d66... update
       }
@@ -654,6 +657,7 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "team_comp_4": {
     "comp_name": "Blademaster & Celestial",
     "Thumbnail_picture": "Shen",
@@ -662,6 +666,8 @@
     "WinRate": 12.1,
     "Top4Rate": 50.86,
     "PickPct": 7.25,
+=======
+>>>>>>> parent of b713d66... update
 =======
 >>>>>>> parent of b713d66... update
   "team_comp_6": {
@@ -870,6 +876,9 @@
 =======
         "Indicator": "Buff"
       }
+<<<<<<< HEAD
+>>>>>>> parent of b713d66... update
+=======
 >>>>>>> parent of b713d66... update
     },
     "first_row": {
