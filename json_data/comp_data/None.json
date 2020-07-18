@@ -1,7 +1,7 @@
 {
   "team_comp_2": {
     "comp_name": "Sniper & Astro",
-    "Thumbnail_picture": "Nautilus",
+    "Thumbnail_picture": "Jhin",
     "Count": 6623.0,
     "Placement": 4.35,
     "WinRate": 14.13,
@@ -133,11 +133,11 @@
   "team_comp_3": {
     "comp_name": "Darkstar & Celestial",
     "Thumbnail_picture": "Karma",
-    "Count": 19608.0,
-    "Placement": 4.35,
-    "WinRate": 14.1,
-    "Top4Rate": 52.56,
-    "PickPct": 20.66,
+    "Count": 21037.0,
+    "Placement": 4.32,
+    "WinRate": 14.03,
+    "Top4Rate": 53.44,
+    "PickPct": 20.71,
     "Trait_tiers": {
       "celestial": 1,
       "darkstar": 2,
@@ -262,13 +262,13 @@
     }
   },
   "team_comp_4": {
-    "comp_name": "Blademaster & Celestial",
+   "comp_name": "Blademaster & Celestial",
     "Thumbnail_picture": "Shen",
-    "Count": 7072.0,
-    "Placement": 4.48,
-    "WinRate": 12.1,
-    "Top4Rate": 50.86,
-    "PickPct": 7.25,
+    "Count": 8243.0,
+    "Placement": 4.46,
+    "WinRate": 11.67,
+    "Top4Rate": 52.03,
+    "PickPct": 8.11,
     "Trait_tiers": {
       "blademaster": 2,
       "celestial": 1,
@@ -389,13 +389,13 @@
     }
   },
   "team_comp_5": {
-    "comp_name": "Starguardian & Protector",
-    "Thumbnail_picture": "Neeko",
-    "Count": 14729.0,
-    "Placement": 4.5,
-    "WinRate": 14.69,
-    "Top4Rate": 48.98,
-    "PickPct": 15.52,
+    "comp_name": "Starguardian & Sorcerer",
+    "Thumbnail_picture": "Zoe",
+    "Count": 17721.0,
+    "Placement": 4.36,
+    "WinRate": 15.91,
+    "Top4Rate": 51.68,
+    "PickPct": 17.44,
     "Trait_tiers": {
       "protector": 1,
       "sorcerer": 1,
@@ -643,11 +643,11 @@
   "team_comp_7": {
     "comp_name": "Vanguard & Mystic",
     "Thumbnail_picture": "Cassiopeia",
-    "Count": 12937.0,
-    "Placement": 4.76,
-    "WinRate": 9.1,
-    "Top4Rate": 45.69,
-    "PickPct": 13.27,
+    "Count": 14972.0,
+    "Placement": 4.83,
+    "WinRate": 8.5,
+    "Top4Rate": 44.51,
+    "PickPct": 14.74,
     "Trait_tiers": {
       "mystic": 1,
       "vanguard": 2
