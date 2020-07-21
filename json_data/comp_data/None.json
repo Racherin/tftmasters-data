@@ -68,10 +68,10 @@
         "Indicator": "Buff",
         "isCarry": true
       },
-      "Rakan": {
+      "Xerath" :{
         "Count": 47,
         "Items": [],
-        "Indicator": "Buff"
+        "Indicator": "Nerf"
       }
     },
     "first_row": {
