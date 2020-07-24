@@ -9,10 +9,9 @@
     "PickPct": 17.98,
     "Trait_tiers": {
       "darkstar": 1,
-      "mystic": 2,
+      "mystic": 1,
       "sniper": 1,
-      "vanguard": 2,
-      "astro": 1
+      "vanguard": 2
     },
     "Champions": {
       "Nautilus": {
@@ -141,7 +140,7 @@
     "PickPct": 7.01,
     "Trait_tiers": {
       "celestial": 1,
-      "darkstar": 1,
+      "darkstar": 2,
       "infiltrator": 1,
       "mystic": 1,
       "protector": 1,
@@ -264,7 +263,7 @@
     }
   },
   "team_comp_3": {
-    "comp_name": "Mechpilot & Darkstar",
+    "comp_name": "Mechpilot & Sorcerer",
     "Thumbnail_picture": "Rumble",
     "Count": 4844.0,
     "Placement": 4.31,
@@ -276,7 +275,7 @@
       "infiltrator": 1,
       "mechpilot": 1,
       "mercenary": 1,
-      "sorcerer": 1
+      "sorcerer":2
     },
     "Champions": {
       "Rumble": {
@@ -340,7 +339,14 @@
         ],
         "Indicator": "None"
       },
-      "Ahri ": {
+      "Ahri": {
+        "Count": 44,
+        "Items": [
+          "15"
+        ],
+        "Indicator": "None"
+      },
+      "Gangplank": {
         "Count": 44,
         "Items": [
           "15"
@@ -653,7 +659,7 @@
     "Top4Rate": 49.37,
     "PickPct": 8.58,
     "Trait_tiers": {
-      "sorcerer": 1,
+      "sorcerer": 2,
       "starguardian": 2,
       "paragon": 1
     },
@@ -706,6 +712,13 @@
           "14"
         ],
         "Indicator": "Nerf"
+      },
+      "Xerath": {
+        "Count": 51,
+        "Items": [
+          "14"
+        ],
+        "Indicator": "None"
       }
     },
      "first_row": {
@@ -766,7 +779,8 @@
     "Trait_tiers": {
       "mercenary": 1,
       "spacepirate": 2,
-      "vanguard": 1
+      "vanguard": 1,
+      "rebel": 1
     },
     "Champions": {
       "Jayce": {
@@ -887,7 +901,8 @@
     "PickPct": 8.96,
     "Trait_tiers": {
       "blademaster": 2,
-      "chrono": 1
+      "chrono": 1,
+      "protector" : 1
     },
     "Champions": {
       "Shen": {
