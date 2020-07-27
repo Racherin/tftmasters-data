@@ -1,65 +1,28 @@
 {
   "team_comp_1": {
-    "comp_name": "Mystic & Darkstar",
+    "comp_name": "Sniper & Astro",
     "Thumbnail_picture": "Nautilus",
-    "Count": 19410.0,
-    "Placement": 4.23,
-    "WinRate": 14.54,
-    "Top4Rate": 55.32,
-    "PickPct": 17.98,
+    "Count": 12883.0,
+    "Placement": 4.29,
+    "WinRate": 14.9,
+    "Top4Rate": 53.93,
+    "PickPct": 12.38,
     "Trait_tiers": {
-      "darkstar": 1,
-      "mystic": 2,
-      "sniper": 1,
-      "vanguard": 2,
+      "celestial": 1,
+      "chrono": 1,
+      "mystic": 1,
+      "sniper": 2,
+      "vanguard": 1,
       "astro": 1
     },
     "Champions": {
       "Nautilus": {
-        "Count": 86,
+        "Count": 99,
         "Items": [],
         "Indicator": "None"
-      },
-      "WuKong": {
-        "Count": 83,
-        "Items": [
-          "36",
-          "99"
-        ],
-        "Indicator": "None"
-      },
-      "Karma": {
-        "Count": 58,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Mordekaiser": {
-        "Count": 54,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Jhin": {
-        "Count": 53,
-        "Items": [
-          "29",
-          "15",
-          "19"
-        ],
-        "Indicator": "Nerf",
-        "isCarry": true
-      },
-      "Jayce": {
-        "Count": 52,
-        "Items": [
-          "15",
-          "36",
-          "66"
-        ],
-        "Indicator": "None",
-        "isCarry": true
       },
       "Teemo": {
-        "Count": 51,
+        "Count": 97,
         "Items": [
           "37",
           "33",
@@ -68,86 +31,6 @@
         "Indicator": "None",
         "isCarry": true
       },
-      "Soraka": {
-        "Count": 51,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Lulu": {
-        "Count": 45,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Bard": {
-        "Count": 45,
-        "Items": [],
-        "Indicator": "None"
-      }
-    },
-    "first_row": {
-      "a1": "Mordekaiser",
-      "a2": "None",
-      "a3": "Nautilus",
-      "a4": "None",
-      "a5": "Jayce",
-      "a6": "None",
-      "a7": "WuKong"
-    },
-    "second_row": {
-      "b1": "None",
-      "b2": "None",
-      "b3": "None",
-      "b4": "None",
-      "b5": "None",
-      "b6": "None",
-      "b7": "None"
-    },
-    "third_row": {
-      "c1": "None",
-      "c2": "None",
-      "c3": "None",
-      "c4": "None",
-      "c5": "None",
-      "c6": "None",
-      "c7": "None"
-    },
-    "fourth_row": {
-      "d1": "Soraka",
-      "d2": "Lulu",
-      "d3": "Bard",
-      "d4": "Teemo",
-      "d5": "None",
-      "d6": "Jhin",
-      "d7": "Karma"
-    },
-    "first_item_priortiy": {
-      "first": "9",
-      "second": "2",
-      "third": "5"
-    },
-    "item_priority": {
-      "first": "29",
-      "second": "15",
-      "third": "19"
-    }
-  },
-  "team_comp_2": {
-    "comp_name": "Darkstar & Celestial",
-    "Thumbnail_picture": "Jhin",
-    "Count": 7574.0,
-    "Placement": 4.27,
-    "WinRate": 14.42,
-    "Top4Rate": 53.54,
-    "PickPct": 7.01,
-    "Trait_tiers": {
-      "celestial": 1,
-      "darkstar": 1,
-      "infiltrator": 1,
-      "mystic": 1,
-      "protector": 1,
-      "sniper": 1
-    },
-    "Champions": {
       "Jhin": {
         "Count": 96,
         "Items": [
@@ -158,71 +41,54 @@
         "Indicator": "Nerf",
         "isCarry": true
       },
-      "Ashe": {
-        "Count": 95,
+      "WuKong": {
+        "Count": 93,
         "Items": [
-          "14",
-          "23",
-          "26"
-        ],
-        "Indicator": "None",
-        "isCarry": true
-      },
-      "JarvanIV": {
-        "Count": 95,
-        "Items": [
-          "77",
           "36",
           "55"
         ],
-        "Indicator": "Nerf",
-        "isCarry": true
-      },
-      "Karma": {
-        "Count": 89,
-        "Items": [],
         "Indicator": "None"
       },
-      "Rakan": {
-        "Count": 71,
-        "Items": [],
-        "Indicator": "Nerf"
-      },
-      "Shaco": {
-        "Count": 71,
+      "Gnar": {
+        "Count": 87,
         "Items": [
-          "15",
-          "16",
-          "22"
+          "36",
+          "55",
+          "77"
         ],
         "Indicator": "None",
         "isCarry": true
       },
-      "Mordekaiser": {
-        "Count": 47,
+      "Ashe": {
+        "Count": 60,
+        "Items": [
+          "14"
+        ],
+        "Indicator": "None"
+      },
+      "Karma": {
+        "Count": 53,
+        "Items": [],
+        "Indicator": "None"
+      },
+      "Caitlyn": {
+        "Count": 51,
         "Items": [],
         "Indicator": "None"
       },
       "Lulu": {
-        "Count": 46,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Fizz": {
         "Count": 45,
-        "Items": [
-          "45"
-        ],
+        "Items": [],
         "Indicator": "None"
       }
     },
     "first_row": {
       "a1": "None",
-      "a2": "Rakan",
-      "a3": "None",
-      "a4": "Mordekaiser",
-      "a5": "None",
-      "a6": "JarvanIV",
+      "a2": "None",
+      "a3": "Nautilus",
+      "a4": "Gnar",
+      "a5": "WuKong",
+      "a6": "None",
       "a7": "None"
     },
     "second_row": {
@@ -244,13 +110,13 @@
       "c7": "None"
     },
     "fourth_row": {
-      "d1": "Ashe",
-      "d2": "Fizz",
+      "d1": "Karma",
+      "d2": "Jhin",
       "d3": "None",
-      "d4": "Lulu",
-      "d5": "Shaco",
-      "d6": "Jhin",
-      "d7": "Karma"
+      "d4": "None",
+      "d5": "Teemo",
+      "d6": "Lulu",
+      "d7": "Ashe"
     },
     "first_item_priortiy": {
       "first": "9",
@@ -259,103 +125,92 @@
     },
     "item_priority": {
       "first": "29",
-      "second": "15",
-      "third": "19"
+      "second": "19",
+      "third": "15"
     }
   },
-  "team_comp_3": {
-    "comp_name": "Mechpilot & Darkstar",
-    "Thumbnail_picture": "Rumble",
-    "Count": 4844.0,
-    "Placement": 4.31,
-    "WinRate": 13.15,
-    "Top4Rate": 54.0,
-    "PickPct": 4.49,
+  "team_comp_2": {
+    "comp_name": "Brawler & Rebel",
+    "Thumbnail_picture": "Jinx",
+    "Count": 5865.0,
+    "Placement": 4.3,
+    "WinRate": 10.61,
+    "Top4Rate": 54.53,
+    "PickPct": 5.63,
     "Trait_tiers": {
-      "demolitionist": 1,
-      "infiltrator": 1,
-      "mechpilot": 1,
-      "mercenary": 1,
-      "sorcerer": 1
+      "brawler": 2,
+      "blaster": 1,
+      "chrono": 1,
+      "rebel": 1,
+      "starship": 1
     },
     "Champions": {
-      "Rumble": {
-        "Count": 77,
+      "Jinx": {
+        "Count": 100,
         "Items": [
-          "69",
-          "25",
+          "12",
+          "57",
+          "29"
+        ],
+        "Indicator": "Buff",
+        "isCarry": true
+      },
+      "Ezreal": {
+        "Count": 99,
+        "Items": [
+          "57"
+        ],
+        "Indicator": "None"
+      },
+      "Blitzcrank": {
+        "Count": 96,
+        "Items": [
+          "67"
+        ],
+        "Indicator": "None"
+      },
+      "Gnar": {
+        "Count": 94,
+        "Items": [
+          "36",
+          "45",
           "55"
         ],
         "Indicator": "None",
         "isCarry": true
       },
-      "Fizz": {
-        "Count": 74,
-        "Items": [
-          "69"
-        ],
-        "Indicator": "None"
-      },
-      "Annie": {
-        "Count": 72,
+      "Malphite": {
+        "Count": 92,
         "Items": [],
         "Indicator": "None"
       },
-      "Viktor": {
-        "Count": 60,
+      "Vi": {
+        "Count": 88,
+        "Items": [
+          "36",
+          "47"
+        ],
+        "Indicator": "None"
+      },
+      "AurelionSol": {
+        "Count": 67,
         "Items": [
           "37",
-          "14",
+          "34",
           "33"
-        ],
-        "Indicator": "Buff",
-        "isCarry": true
-      },
-      "Shaco": {
-        "Count": 54,
-        "Items": [
-          "15",
-          "16",
-          "22"
         ],
         "Indicator": "None",
         "isCarry": true
-      },
-      "Karma": {
-        "Count": 51,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Syndra": {
-        "Count": 44,
-        "Items": [
-          "15"
-        ],
-        "Indicator": "None"
-      },
-      "Zoe": {
-        "Count": 44,
-        "Items": [
-          "15"
-        ],
-        "Indicator": "None"
-      },
-      "Ahri ": {
-        "Count": 44,
-        "Items": [
-          "15"
-        ],
-        "Indicator": "None"
       }
     },
     "first_row": {
-      "a1": "Annie",
-      "a2": "None",
+      "a1": "None",
+      "a2": "Vi",
       "a3": "None",
-      "a4": "Gangplank",
-      "a5": "Fizz",
+      "a4": "Gnar",
+      "a5": "None",
       "a6": "None",
-      "a7": "Rumble"
+      "a7": "None"
     },
     "second_row": {
       "b1": "None",
@@ -368,41 +223,41 @@
     },
     "third_row": {
       "c1": "None",
-      "c2": "None",
-      "c3": "None",
+      "c2": "Malphite",
+      "c3": "Blitzcrank",
       "c4": "None",
       "c5": "None",
       "c6": "None",
       "c7": "None"
     },
     "fourth_row": {
-      "d1": "Karma",
-      "d2": "Shaco",
-      "d3": "None",
-      "d4": "Viktor",
-      "d5": "Ahri",
-      "d6": "Syndra",
-      "d7": "Zoe"
+      "d1": "AurelionSol",
+      "d2": "Jinx",
+      "d3": "Ezreal",
+      "d4": "None",
+      "d5": "None",
+      "d6": "None",
+      "d7": "None"
     },
     "first_item_priortiy": {
-      "first": "5",
-      "second": "9",
-      "third": "2"
+      "first": "2",
+      "second": "5",
+      "third": "1"
     },
     "item_priority": {
-      "first": "69",
-      "second": "55",
-      "third": "15"
+      "first": "12",
+      "second": "57",
+      "third": "29"
     }
   },
-  "team_comp_4": {
+  "team_comp_3": {
     "comp_name": "Cybernetic & Blademaster",
-    "Thumbnail_picture": "Vi",
-    "Count": 9328.0,
-    "Placement": 4.34,
-    "WinRate": 13.7,
-    "Top4Rate": 52.65,
-    "PickPct": 8.64,
+    "Thumbnail_picture": "Irelia",
+    "Count": 7902.0,
+    "Placement": 4.3,
+    "WinRate": 14.11,
+    "Top4Rate": 53.06,
+    "PickPct": 7.59,
     "Trait_tiers": {
       "chrono": 1,
       "cybernetic": 2,
@@ -524,87 +379,90 @@
       "third": "15"
     }
   },
-  "team_comp_5": {
-    "comp_name": "Brawler & Rebel",
-    "Thumbnail_picture": "Jinx",
-    "Count": 8850.0,
-    "Placement": 4.37,
-    "WinRate": 9.99,
-    "Top4Rate": 53.28,
-    "PickPct": 8.2,
+  "team_comp_4": {
+    "comp_name": "Mystic & Vanguard",
+    "Thumbnail_picture": "Jayce",
+    "Count": 5370.0,
+    "Placement": 4.3,
+    "WinRate": 12.09,
+    "Top4Rate": 53.11,
+    "PickPct": 5.16,
     "Trait_tiers": {
-      "brawler": 2,
-      "blaster": 1,
-      "chrono": 1,
-      "rebel": 1,
-      "starship": 1
+      "mystic": 2,
+      "vanguard": 2
     },
     "Champions": {
-      "Jinx": {
-        "Count": 90,
+      "Jayce": {
+        "Count": 99,
         "Items": [
-          "12",
-          "57",
-          "29"
-        ],
-        "Indicator": "Buff",
-        "isCarry": true
-      },
-      "Ezreal": {
-        "Count": 89,
-        "Items": [
-          "57"
-        ],
-        "Indicator": "None"
-      },
-      "Blitzcrank": {
-        "Count": 86,
-        "Items": [
-          "67"
-        ],
-        "Indicator": "None"
-      },
-      "Gnar": {
-        "Count": 85,
-        "Items": [
+          "15",
           "36",
-          "45",
           "66"
         ],
         "Indicator": "None",
         "isCarry": true
       },
-      "Malphite": {
-        "Count": 83,
+      "Cassiopeia": {
+        "Count": 98,
+        "Items": [
+          "37",
+          "22",
+          "34"
+        ],
+        "Indicator": "None",
+        "isCarry": true
+      },
+      "Nautilus": {
+        "Count": 95,
         "Items": [],
         "Indicator": "None"
       },
-      "Vi": {
-        "Count": 79,
+      "Mordekaiser": {
+        "Count": 95,
         "Items": [
           "36",
-          "47"
+          "99"
         ],
         "Indicator": "None"
       },
-      "AurelionSol": {
-        "Count": 59,
+      "WuKong": {
+        "Count": 95,
         "Items": [
-          "37",
-          "34",
-          "33"
+          "99",
+          "36",
+          "15"
+        ],
+        "Indicator": "None",
+        "isCarry": true
+      },
+      "Soraka": {
+        "Count": 85,
+        "Items": [
+          "14"
+        ],
+        "Indicator": "None"
+      },
+      "Karma": {
+        "Count": 79,
+        "Items": [],
+        "Indicator": "None"
+      },
+      "Lulu": {
+        "Count": 56,
+        "Items": [
+          "14"
         ],
         "Indicator": "None"
       }
     },
-   "first_row": {
-      "a1": "None",
-      "a2": "Vi",
-      "a3": "None",
-      "a4": "Gnar",
-      "a5": "None",
+    "first_row": {
+      "a1": "Nautilus",
+      "a2": "None",
+      "a3": "Jayce",
+      "a4": "None",
+      "a5": "Mordekaiser",
       "a6": "None",
-      "a7": "None"
+      "a7": "WuKong"
     },
     "second_row": {
       "b1": "None",
@@ -617,41 +475,41 @@
     },
     "third_row": {
       "c1": "None",
-      "c2": "Malphite",
-      "c3": "Blitzcrank",
+      "c2": "None",
+      "c3": "None",
       "c4": "None",
       "c5": "None",
       "c6": "None",
       "c7": "None"
     },
     "fourth_row": {
-      "d1": "AurelionSol",
-      "d2": "Jinx",
-      "d3": "Ezreal",
+      "d1": "Karma",
+      "d2": "Cassiopeia",
+      "d3": "None",
       "d4": "None",
       "d5": "None",
-      "d6": "None",
-      "d7": "None"
+      "d6": "Lulu",
+      "d7": "Soraka"
     },
     "first_item_priortiy": {
-      "first": "2",
-      "second": "5",
-      "third": "1"
+      "first": "3",
+      "second": "2",
+      "third": "5"
     },
     "item_priority": {
-      "first": "12",
-      "second": "57",
-      "third": "29"
+      "first": "37",
+      "second": "22",
+      "third": "15"
     }
   },
-  "team_comp_6": {
-    "comp_name": "Starguardian & Sorcerer",
-    "Thumbnail_picture": "Syndra",
-    "Count": 9269.0,
-    "Placement": 4.53,
-    "WinRate": 12.62,
-    "Top4Rate": 49.37,
-    "PickPct": 8.58,
+  "team_comp_5": {
+    "comp_name": "Sorcerer & Starguardian",
+    "Thumbnail_picture": "Soraka",
+    "Count": 12459.0,
+    "Placement": 4.35,
+    "WinRate": 13.14,
+    "Top4Rate": 52.71,
+    "PickPct": 11.97,
     "Trait_tiers": {
       "sorcerer": 1,
       "starguardian": 2,
@@ -756,135 +614,13 @@
     }
   },
   "team_comp_7": {
-    "comp_name": "Spacepirate & Vanguard",
-    "Thumbnail_picture": "Jayce",
-    "Count": 4199.0,
-    "Placement": 4.84,
-    "WinRate": 11.36,
-    "Top4Rate": 41.87,
-    "PickPct": 3.89,
-    "Trait_tiers": {
-      "mercenary": 1,
-      "spacepirate": 2,
-      "vanguard": 1
-    },
-    "Champions": {
-      "Jayce": {
-        "Count": 69,
-        "Items": [
-          "36",
-          "46",
-          "15"
-        ],
-        "Indicator": "None",
-        "isCarry": true
-      },
-      "Darius": {
-        "Count": 65,
-        "Items": [
-          "39",
-          "33",
-          "36"
-        ],
-        "Indicator": "Buff",
-        "isCarry": true
-      },
-      "Graves": {
-        "Count": 62,
-        "Items": [],
-        "Indicator": "Buff"
-      },
-      "Gangplank": {
-        "Count": 55,
-        "Items": [
-          "15",
-          "33",
-          "39"
-        ],
-        "Indicator": "None",
-        "isCarry": true
-      },
-      "WuKong": {
-        "Count": 55,
-        "Items": [],
-        "Indicator": "None"
-      },
-      "Jinx": {
-        "Count": 55,
-        "Items": [
-          "12",
-          "57",
-          "29"
-        ],
-        "Indicator": "Buff",
-        "isCarry": true
-      },
-      "Ziggs": {
-        "Count": 55,
-        "Items": [],
-        "Indicator": "None"
-      },
-       "AurelionSol": {
-        "Count": 55,
-        "Items": [],
-        "Indicator": "None"
-      }
-    },
-    "first_row": {
-      "a1": "None",
-      "a2": "None",
-      "a3": "None",
-      "a4": "None",
-      "a5": "None",
-      "a6": "None",
-      "a7": "None"
-    },
-    "second_row": {
-      "b1": "None",
-      "b2": "None",
-      "b3": "None",
-      "b4": "None",
-      "b5": "None",
-      "b6": "None",
-      "b7": "None"
-    },
-    "third_row": {
-      "c1": "None",
-      "c2": "AurelionSol",
-      "c3": "Gangplank",
-      "c4": "Jayce",
-      "c5": "Graves",
-      "c6": "Darius",
-      "c7": "WuKong"
-    },
-    "fourth_row": {
-      "d1": "Ziggs",
-      "d2": "Jinx",
-      "d3": "None",
-      "d4": "None",
-      "d5": "None",
-      "d6": "None",
-      "d7": "None"
-    },
-    "first_item_priortiy": {
-      "first": "3",
-      "second": "5",
-      "third": "1"
-    },
-    "item_priority": {
-      "first": "39",
-      "second": "15",
-      "third": "36"
-    }
-  },
-  "team_comp_8": {
-    "comp_name": "Blademaster & Chrono",
+    "comp_name": "Blademaster & Rebel",
     "Thumbnail_picture": "Shen",
-    "Count": 9679.0,
-    "Placement": 4.87,
-    "WinRate": 11.05,
-    "Top4Rate": 42.79,
-    "PickPct": 8.96,
+    "Count": 9458.0,
+    "Placement": 4.45,
+    "WinRate": 14.12,
+    "Top4Rate": 50.74,
+    "PickPct": 9.09,
     "Trait_tiers": {
       "blademaster": 2,
       "chrono": 1
@@ -996,6 +732,138 @@
       "first": "29",
       "second": "19",
       "third": "69"
+    }
+  },
+  "team_comp_8": {
+    "comp_name": "Darkstar & Celestial",
+    "Thumbnail_picture": "JarvanIV",
+    "Count": 9216.0,
+    "Placement": 4.63,
+    "WinRate": 11.47,
+    "Top4Rate": 47.55,
+    "PickPct": 8.85,
+   "Trait_tiers": {
+      "celestial": 1,
+      "darkstar": 1,
+      "infiltrator": 1,
+      "mystic": 1,
+      "protector": 1,
+      "sniper": 1
+    },
+    "Champions": {
+      "Jhin": {
+        "Count": 96,
+        "Items": [
+          "29",
+          "19",
+          "15"
+        ],
+        "Indicator": "Nerf",
+        "isCarry": true
+      },
+      "Ashe": {
+        "Count": 95,
+        "Items": [
+          "14",
+          "23",
+          "26"
+        ],
+        "Indicator": "None",
+        "isCarry": true
+      },
+      "JarvanIV": {
+        "Count": 95,
+        "Items": [
+          "77",
+          "36",
+          "55"
+        ],
+        "Indicator": "Nerf",
+        "isCarry": true
+      },
+      "Karma": {
+        "Count": 89,
+        "Items": [],
+        "Indicator": "None"
+      },
+      "Rakan": {
+        "Count": 71,
+        "Items": [],
+        "Indicator": "Nerf"
+      },
+      "Shaco": {
+        "Count": 71,
+        "Items": [
+          "15",
+          "16",
+          "22"
+        ],
+        "Indicator": "None",
+        "isCarry": true
+      },
+      "Mordekaiser": {
+        "Count": 47,
+        "Items": [],
+        "Indicator": "None"
+      },
+      "Lulu": {
+        "Count": 46,
+        "Items": [],
+        "Indicator": "None"
+      },
+      "Fizz": {
+        "Count": 45,
+        "Items": [
+          "45"
+        ],
+        "Indicator": "None"
+      }
+    },
+    "first_row": {
+      "a1": "None",
+      "a2": "Rakan",
+      "a3": "None",
+      "a4": "Mordekaiser",
+      "a5": "None",
+      "a6": "JarvanIV",
+      "a7": "None"
+    },
+    "second_row": {
+      "b1": "None",
+      "b2": "None",
+      "b3": "None",
+      "b4": "None",
+      "b5": "None",
+      "b6": "None",
+      "b7": "None"
+    },
+    "third_row": {
+      "c1": "None",
+      "c2": "None",
+      "c3": "None",
+      "c4": "None",
+      "c5": "None",
+      "c6": "None",
+      "c7": "None"
+    },
+    "fourth_row": {
+      "d1": "Ashe",
+      "d2": "Fizz",
+      "d3": "None",
+      "d4": "Lulu",
+      "d5": "Shaco",
+      "d6": "Jhin",
+      "d7": "Karma"
+    },
+    "first_item_priortiy": {
+      "first": "9",
+      "second": "2",
+      "third": "1"
+    },
+    "item_priority": {
+      "first": "29",
+      "second": "15",
+      "third": "19"
     }
   }
 }
